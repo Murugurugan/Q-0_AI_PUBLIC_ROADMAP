@@ -130,7 +130,7 @@ These systems are fully engineered, tested, and running in production.
 * **Format Master & Style Controls (`format-style`)**  
   1-click output structure (Tables, Interactive Graphs, HTML Mini-Apps, Code Blocks, LaTeX) and tone style adjustments (Academic, Funny, Detailed, ELI5, Positive, Short, Long, Step-by-Step).
 * **Branching & Self-Healing Streams (`conversation`)**  
-  Non-linear message branching (`< 2/2 >`), bidirectional prompt and reply editing, 315,000-character input capacity, and self-healing stream interrupts that re-balance markdown tags and code fences if generation is halted.
+  Non-linear message branching (`< 2/2 >`), bidirectional prompt and reply editing, almost unlimited character input capacity, and self-healing stream interrupts that re-balance markdown tags and code fences if generation is halted.
 * **25+ Specialized Expert Modes (`expert-modes`)**  
   Instantly accessible roles for coding, technical writing, music composition, fitness, and analysis via the in-app Quick Switcher.
 * **Push-to-Talk & Auto-Detect Voice (`voice`)**  
